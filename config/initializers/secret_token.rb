@@ -1,0 +1,1 @@
+Demoapp2::Application.config.secret_token = "dkfhaewotheawfhu335r980wetadugaweut4ut44ihrggh48"
